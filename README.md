@@ -2,8 +2,7 @@
 
 I enjoy building web applications, exploring new technologies, and creating useful software projects. Currently focused on improving my programming skills and growing as a developer.
 
-[![Top Committers](https://committers.top/kazakhstan/kaharn.svg)](https://committers.top/kazakhstan/kaharn)
-
+[![committers.top badge](https://user-badge.committers.top/kazakhstan/kaharn.svg)](https://committers.top/kazakhstan.html)
 
 ## 📫 Contact Me
 
