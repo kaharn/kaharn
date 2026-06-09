@@ -1,16 +1,14 @@
-## Hi there 👋
+# ⚡ Assalamu Alaikum, I'm Kakhar!
 
-<!--
-**kaharn/kaharn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building web applications, exploring new technologies, and creating useful software projects. Currently focused on improving my programming skills and growing as a developer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+
+* ✉️ Email: [techvoid@mail.com](mailto:techvoid@mail.com)
+* 📱 Telegram: https://t.me/kaharn
+* 🖥️ GitHub: https://github.com/kaharn
+
+
+Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on exciting projects! 🚀
